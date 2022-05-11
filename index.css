@@ -116,6 +116,13 @@ a {
   margin: 0;
 }
 
+#product-management-container ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
 #skills-container {
   display: flex;
   width: 100%;

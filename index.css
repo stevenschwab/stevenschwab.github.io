@@ -116,6 +116,10 @@ a {
   margin: 0;
 }
 
+.resume {
+  text-decoration: underline;
+}
+
 #product-management-container ul {
   display: flex;
   flex-direction: row;
